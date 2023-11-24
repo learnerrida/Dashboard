@@ -1,0 +1,17 @@
+dash
+gradio
+langchain
+matplotlib
+numpy
+openai
+pandas
+Pillow
+pinecone_client
+plotly
+pywedge
+seaborn
+streamlit
+tqdm
+tiktoken
+openpyxl
+
